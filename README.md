@@ -11,7 +11,15 @@ This repository contains a basic RNA-Seq pipeline written in Bash. The pipeline 
 - [Subread featureCounts](http://bioinf.wehi.edu.au/featureCounts/) - Read 
    quantification.
 
-  ###  Clone the Repository
+###  Clone the Repository
   git clone https://github.com/636077/RNA_Seq_pipeline.git
-  cd 
+  cd RNA_Seq_pipeline
 
+## Setup Conda Environment 
+  conda env create -f environment.yml
+  conda activate rnaseq_env
+  
+## Run the Pipeline
+ bash RNASeq_pipeline.sh
+
+  

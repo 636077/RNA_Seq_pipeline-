@@ -20,6 +20,7 @@ This repository contains a basic RNA-Seq pipeline written in Bash. The pipeline 
   conda activate rnaseq_env
   
 ## Run the Pipeline
- bash RNASeq_pipeline.sh
+ bash RNASeqpipeline.sh
+ 
 
   

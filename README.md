@@ -8,8 +8,10 @@ This repository contains a basic RNA-Seq pipeline written in Bash. The pipeline 
 - [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic) - Read trimming
 - [HISAT2](https://daehwankimlab.github.io/hisat2/) - Read alignment
 - [Samtools](http://www.htslib.org/) - BAM sorting
-- [Subread featureCounts](http://bioinf.wehi.edu.au/featureCounts/) - Read quantification.
+- [Subread featureCounts](http://bioinf.wehi.edu.au/featureCounts/) - Read 
+   quantification.
 
   ###  Clone the Repository
-  git clone https://github.com/636077/RNA.git
-cd rnaseq-pipeline
+  git clone https://github.com/636077/RNA_Seq_pipeline.git
+  cd 
+
